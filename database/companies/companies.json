@@ -1,0 +1,326 @@
+[
+  {
+    "name": "Acme Inc.",
+    "location": "New York, NY",
+    "website": "https://www.acmeinc.com"
+  },
+  {
+    "name": "Bravo Corp.",
+    "location": "Chicago, IL",
+    "website": "https://www.bravocorporation.com"
+  },
+  {
+    "name": "Charlie Co.",
+    "location": "San Francisco, CA",
+    "website": "https://www.charliecompany.com"
+  },
+  {
+    "name": "Delta Enterprises",
+    "location": "Boston, MA",
+    "website": "https://www.deltaenterprises.com"
+  },
+  {
+    "name": "Echo Inc.",
+    "location": "Seattle, WA",
+    "website": "https://www.echoinc.com"
+  },
+  {
+    "name": "Foxtrot Solutions",
+    "location": "Austin, TX",
+    "website": "https://www.foxtrotsolutions.com"
+  },
+  {
+    "name": "Golf Corp.",
+    "location": "Portland, OR",
+    "website": "https://www.golfcorp.com"
+  },
+  {
+    "name": "Hotel Inc.",
+    "location": "Miami, FL",
+    "website": "https://www.hotelinc.com"
+  },
+  {
+    "name": "India Co.",
+    "location": "Los Angeles, CA",
+    "website": "https://www.indiaco.com"
+  },
+  {
+    "name": "Juliett Enterprises",
+    "location": "Dallas, TX",
+    "website": "https://www.juliettenterprises.com"
+  },
+  {
+    "name": "Kilo Solutions",
+    "location": "Minneapolis, MN",
+    "website": "https://www.kilosolutions.com"
+  },
+  {
+    "name": "Lima Inc.",
+    "location": "Houston, TX",
+    "website": "https://www.limainc.com"
+  },
+  {
+    "name": "Mike Corp.",
+    "location": "Philadelphia, PA",
+    "website": "https://www.mikecorp.com"
+  },
+  {
+    "name": "November Inc.",
+    "location": "Phoenix, AZ",
+    "website": "https://www.novemberinc.com"
+  },
+  {
+    "name": "Oscar Enterprises",
+    "location": "San Diego, CA",
+    "website": "https://www.oscarenterprises.com"
+  },
+  {
+    "name": "Papa Co.",
+    "location": "Detroit, MI",
+    "website": "https://www.papaco.com"
+  },
+
+  {
+    "name": "McDonald's",
+    "location": "Chicago, IL, USA",
+    "website": "https://www.mcdonalds.com/"
+  },
+
+  {
+    "name": "KFC",
+    "location": "Louisville, KY, USA",
+    "website": "https://www.kfc.com/"
+  },
+
+  {
+    "name": "Pizza Hut",
+    "location": "Dallas, TX, USA",
+    "website": "https://www.pizzahut.com/"
+  },
+
+  {
+    "name": "Starbucks",
+    "location": "Seattle, WA, USA",
+    "website": "https://www.starbucks.com/"
+  },
+
+  {
+    "name": "Burger King",
+    "location": "Miami, FL, USA",
+    "website": "https://www.bk.com/"
+  },
+
+  {
+    "name": "Subway",
+    "location": "Milford, CT, USA",
+    "website": "https://www.subway.com/"
+  },
+
+  {
+    "name": "Domino's Pizza",
+    "location": "Ann Arbor, MI, USA",
+    "website": "https://www.dominos.com/"
+  },
+
+  {
+    "name": "Dunkin' Donuts",
+    "location": "Canton, MA, USA",
+    "website": "https://www.dunkindonuts.com/"
+  },
+
+  {
+    "name": "Taco Bell",
+    "location": "Irvine, CA, USA",
+    "website": "https://www.tacobell.com/"
+  },
+
+  {
+    "name": "Wendy's",
+    "location": "Dublin, OH, USA",
+    "website": "https://www.wendys.com/"
+  },
+
+  {
+    "name": "Chick-fil-A",
+    "location": "Atlanta, GA, USA",
+    "website": "https://www.chick-fil-a.com/"
+  },
+
+  {
+    "name": "In-N-Out Burger",
+    "location": "Irvine, CA, USA",
+    "website": "https://www.in-n-out.com/"
+  },
+
+  {
+    "name": "Shake Shack",
+    "location": "New York, NY, USA",
+    "website": "https://www.shakeshack.com/"
+  },
+
+  {
+    "name": "Arby's",
+    "location": "Atlanta, GA, USA",
+    "website": "https://www.arbys.com/"
+  },
+  {
+    "name": "Acme Petroleum",
+    "location": "New York, NY",
+    "website": "https://www.acmepetroleum.com"
+  },
+  {
+    "name": "Bravo Oil & Gas",
+    "location": "Houston, TX",
+    "website": "https://www.bravooilandgas.com"
+  },
+  {
+    "name": "Charlie Energy",
+    "location": "Chicago, IL",
+    "website": "https://www.charlieenergy.com"
+  },
+  {
+    "name": "Delta Resources",
+    "location": "San Francisco, CA",
+    "website": "https://www.deltaresources.com"
+  },
+  {
+    "name": "Echo Petroleum",
+    "location": "Dallas, TX",
+    "website": "https://www.echopetroleum.com"
+  },
+  {
+    "name": "Foxtrot Oil & Gas",
+    "location": "Denver, CO",
+    "website": "https://www.foxtrotoilandgas.com"
+  },
+  {
+    "name": "Golf Energy",
+    "location": "Seattle, WA",
+    "website": "https://www.golfenergy.com"
+  },
+  {
+    "name": "Hotel Petroleum",
+    "location": "San Diego, CA",
+    "website": "https://www.hotelpetroleum.com"
+  },
+  {
+    "name": "India Oil & Gas",
+    "location": "Phoenix, AZ",
+    "website": "https://www.indiaoilandgas.com"
+  },
+  {
+    "name": "Juliett Energy",
+    "location": "Las Vegas, NV",
+    "website": "https://www.juliettenergy.com"
+  },
+  {
+    "name": "Kilo Petroleum",
+    "location": "Tulsa, OK",
+    "website": "https://www.kilopetroleum.com"
+  },
+  {
+    "name": "Lima Oil & Gas",
+    "location": "Oklahoma City, OK",
+    "website": "https://www.limaoilandgas.com"
+  },
+  {
+    "name": "Mike Energy",
+    "location": "New Orleans, LA",
+    "website": "https://www.mikeenergy.com"
+  },
+  {
+    "name": "November Petroleum",
+    "location": "Memphis, TN",
+    "website": "https://www.novemberpetroleum.com"
+  },
+  {
+    "name": "Oscar Oil & Gas",
+    "location": "Jacksonville, FL",
+    "website": "https://www.oscaroilandgas.com"
+  },
+  {
+    "name": "Papa Energy",
+    "location": "Miami, FL",
+    "website": "https://www.papaenergy.com"
+  },
+  {
+    "name": "Acme Apparel",
+    "location": "New York, NY",
+    "website": "https://www.acmeapparel.com"
+  },
+  {
+    "name": "Bravo Clothing Co.",
+    "location": "Los Angeles, CA",
+    "website": "https://www.bravoclothing.com"
+  },
+  {
+    "name": "Charlie Fashion",
+    "location": "Chicago, IL",
+    "website": "https://www.charliefashion.com"
+  },
+  {
+    "name": "Delta Threads",
+    "location": "San Francisco, CA",
+    "website": "https://www.deltathreads.com"
+  },
+  {
+    "name": "Echo Clothes",
+    "location": "Seattle, WA",
+    "website": "https://www.echoclothes.com"
+  },
+  {
+    "name": "Foxtrot Fashion",
+    "location": "Austin, TX",
+    "website": "https://www.foxtrotfashion.com"
+  },
+  {
+    "name": "Golf Apparel",
+    "location": "Portland, OR",
+    "website": "https://www.golfapparel.com"
+  },
+  {
+    "name": "Hotel Clothes Co.",
+    "location": "Miami, FL",
+    "website": "https://www.hotelclothes.com"
+  },
+  {
+    "name": "India Fashion",
+    "location": "Dallas, TX",
+    "website": "https://www.indiafashion.com"
+  },
+  {
+    "name": "Juliett Threads",
+    "location": "Philadelphia, PA",
+    "website": "https://www.juliettthreads.com"
+  },
+  {
+    "name": "Kilo Clothing Co.",
+    "location": "Minneapolis, MN",
+    "website": "https://www.kiloclothing.com"
+  },
+  {
+    "name": "Lima Fashion",
+    "location": "Houston, TX",
+    "website": "https://www.limafashion.com"
+  },
+  {
+    "name": "Mike Apparel",
+    "location": "Boston, MA",
+    "website": "https://www.mikeapparel.com"
+  },
+  {
+    "name": "November Threads",
+    "location": "Phoenix, AZ",
+    "website": "https://www.novemberthreads.com"
+  },
+  {
+    "name": "Oscar Clothes Co.",
+    "location": "San Diego, CA",
+    "website": "https://www.oscarclothes.com"
+  },
+  {
+    "name": "Papa Fashion",
+    "location": "Denver, CO",
+    "website": "https://www.papafashion.com"
+  }
+]

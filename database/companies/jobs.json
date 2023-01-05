@@ -1,0 +1,262 @@
+[
+  {
+    "position": "Software Developer",
+    "responsibilities": [
+      "Design and implement software solutions",
+      "Test and debug code",
+      "Collaborate with team members to refine and improve software"
+    ]
+  },
+
+  {
+    "position": "Systems Administrator",
+    "responsibilities": [
+      "Install, configure, and maintain servers and other computer systems",
+      "Monitor system performance and troubleshoot issues",
+      "Back up and restore data"
+    ]
+  },
+
+  {
+    "position": "Network Engineer",
+    "responsibilities": [
+      "Design, implement, and maintain network infrastructure",
+      "Monitor network performance and troubleshoot issues",
+      "Configure and maintain network security"
+    ]
+  },
+
+  {
+    "position": "Project Manager",
+    "responsibilities": [
+      "Plan and coordinate IT projects",
+      "Monitor progress and make adjustments as needed",
+      "Communicate with team members and stakeholders"
+    ]
+  },
+
+  {
+    "position": "Technical Support Specialist",
+    "responsibilities": [
+      "Assist users with technical issues and troubleshoot problems",
+      "Install and configure hardware and software",
+      "Maintain documentation of technical processes and procedures"
+    ]
+  },
+
+  {
+    "position": "Information Security Analyst",
+    "responsibilities": [
+      "Monitor and assess security risks to an organization's information systems",
+      "Implement and maintain security measures to protect against threats",
+      "Conduct security audits and investigations"
+    ]
+  },
+
+  {
+    "position": "Data Scientist",
+    "responsibilities": [
+      "Analyze and interpret complex data sets",
+      "Develop algorithms and models to extract insights from data",
+      "Communicate findings to team members and stakeholders"
+    ]
+  },
+
+  {
+    "position": "DevOps Engineer",
+    "responsibilities": [
+      "Collaborate with software developers and systems administrators to deploy and maintain applications",
+      "Automate and streamline processes to improve efficiency",
+      "Monitor system performance and troubleshoot issues"
+    ]
+  },
+
+  {
+    "position": "Database Administrator",
+    "responsibilities": [
+      "Design and implement databases to store and organize data",
+      "Monitor and optimize database performance",
+      "Backup and recover data as needed"
+    ]
+  },
+
+  {
+    "position": "Cloud Solutions Architect",
+    "responsibilities": [
+      "Design and implement cloud computing solutions",
+      "Monitor and optimize the performance of cloud systems",
+      "Ensure the security and compliance of cloud environments"
+    ]
+  },
+
+  {
+    "position": "Manager",
+    "responsibilities": [
+      "Lead team meetings",
+      "Develop and implement strategies",
+      "Make key decisions"
+    ]
+  },
+  {
+    "position": "Sales Representative",
+    "responsibilities": [
+      "Generate leads",
+      "Close sales",
+      "Provide excellent customer service"
+    ]
+  },
+  {
+    "position": "Marketing Coordinator",
+    "responsibilities": [
+      "Create marketing campaigns",
+      "Analyze data and metrics",
+      "Collaborate with team members"
+    ]
+  },
+  {
+    "position": "Human Resources Generalist",
+    "responsibilities": [
+      "Manage employee benefits",
+      "Oversee onboarding process",
+      "Facilitate conflict resolution"
+    ]
+  },
+  {
+    "position": "Financial Analyst",
+    "responsibilities": [
+      "Perform financial analysis",
+      "Develop financial models",
+      "Provide financial recommendations"
+    ]
+  },
+  {
+    "position": "Software Developer",
+    "responsibilities": [
+      "Design and develop software applications",
+      "Test and debug code",
+      "Collaborate with cross-functional teams"
+    ]
+  },
+  {
+    "position": "Project Manager",
+    "responsibilities": [
+      "Manage project scope and timeline",
+      "Coordinate team members",
+      "Communicate with stakeholders"
+    ]
+  },
+  {
+    "position": "Graphic Designer",
+    "responsibilities": [
+      "Design visual concepts",
+      "Create marketing materials",
+      "Collaborate with team members"
+    ]
+  },
+  {
+    "position": "Content Writer",
+    "responsibilities": [
+      "Create engaging written content",
+      "Edit and proofread materials",
+      "Collaborate with team members"
+    ]
+  },
+  {
+    "position": "Customer Service Representative",
+    "responsibilities": [
+      "Answer customer inquiries",
+      "Resolve customer complaints",
+      "Provide excellent customer service"
+    ]
+  },
+
+  {
+    "position": "Sales Representative",
+    "responsibilities": [
+      "Identify and generate leads through various sales techniques",
+      "Contact and follow up with potential customers",
+      "Negotiate and close sales deals"
+    ]
+  },
+
+  {
+    "position": "Account Manager",
+    "responsibilities": [
+      "Manage and maintain relationships with existing clients",
+      "Identify and pursue new business opportunities with existing clients",
+      "Develop and implement sales strategies to retain and grow accounts"
+    ]
+  },
+
+  {
+    "position": "Sales Manager",
+    "responsibilities": [
+      "Manage and motivate a team of sales reps",
+      "Analyze sales data and trends to inform sales strategies",
+      "Monitor sales performance and provide coaching and training as needed"
+    ]
+  },
+
+  {
+    "position": "Business Development Manager",
+    "responsibilities": [
+      "Identify and pursue new business opportunities",
+      "Develop and maintain relationships with potential clients",
+      "Collaborate with team members to create and present proposals and pitches"
+    ]
+  },
+
+  {
+    "position": "Sales Consultant",
+    "responsibilities": [
+      "Provide expert advice and guidance to clients on product and service options",
+      "Develop and present customized sales solutions",
+      "Manage and follow up with potential leads"
+    ]
+  },
+
+  {
+    "position": "Inside Sales Representative",
+    "responsibilities": [
+      "Generate and follow up on leads through phone and email communication",
+      "Close sales deals remotely",
+      "Maintain accurate records and track progress through sales software"
+    ]
+  },
+
+  {
+    "position": "Sales Engineer",
+    "responsibilities": [
+      "Provide technical expertise and product knowledge to clients",
+      "Develop and present customized solutions that meet client needs",
+      "Collaborate with cross-functional teams to ensure successful product implementation"
+    ]
+  },
+
+  {
+    "position": "Territory Sales Manager",
+    "responsibilities": [
+      "Manage and grow sales within a specific geographic region",
+      "Develop and implement sales strategies specific to the territory",
+      "Conduct market research to identify and pursue new business opportunities"
+    ]
+  },
+
+  {
+    "position": "National Sales Manager",
+    "responsibilities": [
+      "Oversee and coordinate sales efforts across multiple regions and teams",
+      "Analyze sales data and trends to inform national sales strategies",
+      "Provide coaching and training to sales reps and managers"
+    ]
+  },
+
+  {
+    "position": "Channel Sales Manager",
+    "responsibilities": [
+      "Develop and maintain relationships with partner organizations to drive sales",
+      "Manage and grow sales through channel partners",
+      "Collaborate with cross-functional teams to ensure successful product implementation through channel partners"
+    ]
+  }
+]
