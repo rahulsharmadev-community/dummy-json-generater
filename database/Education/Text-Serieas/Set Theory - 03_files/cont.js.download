@@ -1,0 +1,115 @@
+/*-------------------------- Name Validation----------------------*/
+
+function vnvalid() {
+    var vname = /^[a-zA-Z ]+$/;
+    var uname = $('#vname').val();
+    if (!uname.trim()) {
+        $('#err1').html("Name is Required.");
+        return false;
+    }
+    if (uname == "") {
+        $('#err1').html("Name is Required.");
+        return false;
+    }
+    else if (!(vname.test(uname))) {
+        $('#err1').html("Invalid name.");
+        return false;
+    }
+    return true;
+}
+
+function vnunvalid() {
+    $('#err1').html('');
+}
+
+/*---------------------------- Email Validation ------------------------------------*/
+
+function vmlvalid() {
+    var vemail = /^\w+([-+.']\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/;
+    var uemail = $('#vmail').val();
+    if (uemail == "") {
+        $('#err3').html("Email is Required.");
+        return false;
+    }
+    else if (!(vemail.test(uemail))) {
+        $('#err3').html("Invalid email.");
+        return false;
+    }
+    return true;
+}
+
+function vmlunvalid() {
+    $('#err3').html('');
+}
+
+/*---------------------------- mobile Validation ------------------------------------*/
+
+function vmbvalid() {
+    var vmbno = /^[0-9]{10}$/;
+    var umbno = $('#vmob').val();
+    if (umbno == "") {
+        $('#err2').html("Mobile No. is Required.");
+        return false;
+    }
+    else if (!(vmbno.test(umbno))) {
+        $('#err2').html("Invalid Mobile No.");
+        return false;
+    }
+    return true;
+}
+
+function vmbunvalid() {
+    $('#err2').html('');
+}
+
+/*---------------------------- mobile Validation ------------------------------------*/
+
+function vmsvalid() {
+    var umsg = $('#vmsg').val();
+    if (umsg == "") {
+        $('#err4').html("Message is Required.");
+        return false;
+    }
+    return true;
+}
+
+function vmsunvalid() {
+    $('#err4').html('');
+}
+/*------------------------------------------------------*/
+
+$(document).ready(function () {
+
+          var data1,data2,data3,data4;
+
+          var getd = function(){ 
+            data1 = $("#vname").val();
+            data2 = $("#vmail").val();
+            data3 = $("#vmob").val();
+            data4 = $("#vmsg").val();
+            }
+
+        var setd = function(){ 
+            $("#vname").val('');
+            $("#vmail").val('');
+            $("#vmob").val('');
+            $("#vmsg").val('');
+        }
+
+        $('#vcont').click(function(e){            
+        e.preventDefault();
+        getd();
+        if(vnvalid() && vmbvalid() && vmlvalid() && vmsvalid()){
+            $.ajax({
+            url:"feedback",
+            data:{data1 : data1, data2 : data2, data3 : data3, data4 : data4},
+            success: function(){
+                setd();
+                $("#vsmodal").modal('hide');
+                $("#rmodal").modal('show');
+            }
+            });
+        }
+        });
+
+});
