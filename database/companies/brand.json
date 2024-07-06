@@ -1,0 +1,1497 @@
+{
+  "abarth": {
+    "name": "Abarth",
+    "website": "https://www.abarth.com",
+    "industry": "Automotive",
+    "founded": "1949-03-31"
+  },
+  "ac": {
+    "name": "AC",
+    "website": "https://www.accars.eu",
+    "industry": "Automotive",
+    "founded": "1901-01-01"
+  },
+  "acura": {
+    "name": "Acura",
+    "website": "https://www.acura.com",
+    "industry": "Automotive",
+    "founded": "1986-03-27"
+  },
+  "aixam": {
+    "name": "Aixam",
+    "website": "https://www.aixam.com",
+    "industry": "Automotive",
+    "founded": "1983-01-01"
+  },
+  "alfa_romeo": {
+    "name": "Alfa Romeo",
+    "website": "https://www.alfaromeo.com",
+    "industry": "Automotive",
+    "founded": "1910-06-24"
+  },
+  "ariel": {
+    "name": "Ariel",
+    "website": "https://www.arielmotor.co.uk",
+    "industry": "Automotive",
+    "founded": "1902-01-01"
+  },
+  "arrinera": {
+    "name": "Arrinera",
+    "website": "https://www.arrinera.com",
+    "industry": "Automotive",
+    "founded": "2008-01-01"
+  },
+  "aston_martin": {
+    "name": "Aston Martin",
+    "website": "https://www.astonmartin.com",
+    "industry": "Automotive",
+    "founded": "1913-01-15"
+  },
+  "audi": {
+    "name": "Audi",
+    "website": "https://www.audi.com",
+    "industry": "Automotive",
+    "founded": "1909-07-16"
+  },
+  "bentley": {
+    "name": "Bentley",
+    "website": "https://www.bentleymotors.com",
+    "industry": "Automotive",
+    "founded": "1919-07-10"
+  },
+  "bmw": {
+    "name": "BMW",
+    "website": "https://www.bmw.com",
+    "industry": "Automotive",
+    "founded": "1916-03-07"
+  },
+  "bugatti": {
+    "name": "Bugatti",
+    "website": "https://www.bugatti.com",
+    "industry": "Automotive",
+    "founded": "1909-01-01"
+  },
+  "buick": {
+    "name": "Buick",
+    "website": "https://www.buick.com",
+    "industry": "Automotive",
+    "founded": "1903-05-19"
+  },
+  "cadillac": {
+    "name": "Cadillac",
+    "website": "https://www.cadillac.com",
+    "industry": "Automotive",
+    "founded": "1902-08-22"
+  },
+  "caterham": {
+    "name": "Caterham",
+    "website": "https://www.caterhamcars.com",
+    "industry": "Automotive",
+    "founded": "1973-01-01"
+  },
+  "chevrolet": {
+    "name": "Chevrolet",
+    "website": "https://www.chevrolet.com",
+    "industry": "Automotive",
+    "founded": "1911-11-03"
+  },
+  "chrysler": {
+    "name": "Chrysler",
+    "website": "https://www.chrysler.com",
+    "industry": "Automotive",
+    "founded": "1925-06-06"
+  },
+  "citroën": {
+    "name": "Citroën",
+    "website": "https://www.citroen.com",
+    "industry": "Automotive",
+    "founded": "1919-03-20"
+  },
+  "corvette": {
+    "name": "Corvette",
+    "website": "https://www.chevrolet.com/performance/corvette",
+    "industry": "Automotive",
+    "founded": "1953-06-30"
+  },
+  "dacia": {
+    "name": "Dacia",
+    "website": "https://www.dacia.ro",
+    "industry": "Automotive",
+    "founded": "1966-01-01"
+  },
+  "daf": {
+    "name": "Daf",
+    "website": "https://www.daf.com",
+    "industry": "Automotive",
+    "founded": "1928-04-01"
+  },
+  "daihatsu": {
+    "name": "Daihatsu",
+    "website": "https://www.daihatsu.com",
+    "industry": "Automotive",
+    "founded": "1951-03-01"
+  },
+  "dodge": {
+    "name": "Dodge",
+    "website": "https://www.dodge.com",
+    "industry": "Automotive",
+    "founded": "1900-01-01"
+  },
+  "dr_motor": {
+    "name": "DR Motor",
+    "website": "https://www.drmotor.it",
+    "industry": "Automotive",
+    "founded": "2006-01-01"
+  },
+  "elfin": {
+    "name": "Elfin",
+    "website": "https://www.elfin.com.au",
+    "industry": "Automotive",
+    "founded": "1957-01-01"
+  },
+  "ferrari": {
+    "name": "Ferrari",
+    "website": "https://www.ferrari.com",
+    "industry": "Automotive",
+    "founded": "1939-09-13"
+  },
+  "fiat": {
+    "name": "Fiat",
+    "website": "https://www.fiat.com",
+    "industry": "Automotive",
+    "founded": "1899-07-11"
+  },
+  "ford": {
+    "name": "Ford",
+    "website": "https://www.ford.com",
+    "industry": "Automotive",
+    "founded": "1903-06-16"
+  },
+  "gaz": {
+    "name": "Gaz",
+    "website": "https://www.gazgroup.ru",
+    "industry": "Automotive",
+    "founded": "1932-01-01"
+  },
+  "geely": {
+    "name": "Geely",
+    "website": "https://www.geely.com",
+    "industry": "Automotive",
+    "founded": "1986-11-06"
+  },
+  "gillet": {
+    "name": "Gillet",
+    "website": "https://www.gilletvertigo.com",
+    "industry": "Automotive",
+    "founded": "1994-01-01"
+  },
+  "ginetta": {
+    "name": "Ginetta",
+    "website": "https://www.ginetta.com",
+    "industry": "Automotive",
+    "founded": "1958-01-01"
+  },
+  "general_motors": {
+    "name": "General Motors",
+    "website": "https://www.gm.com",
+    "industry": "Automotive",
+    "founded": "1908-09-16"
+  },
+  "gmc": {
+    "name": "GMC",
+    "website": "https://www.gmc.com",
+    "industry": "Automotive",
+    "founded": "1911-07-22"
+  },
+  "great_wall": {
+    "name": "Great Wall",
+    "website": "https://www.gwm-global.com",
+    "industry": "Automotive",
+    "founded": "1984-01-01"
+  },
+  "gumpert": {
+    "name": "Gumpert",
+    "website": "https://www.gumpert.ai",
+    "industry": "Automotive",
+    "founded": "2004-01-01"
+  },
+  "holden": {
+    "name": "Holden",
+    "website": "https://www.holden.com.au",
+    "industry": "Automotive",
+    "founded": "1856-01-01"
+  },
+  "honda": {
+    "name": "Honda",
+    "website": "https://www.honda.com",
+    "industry": "Automotive",
+    "founded": "1946-09-24"
+  },
+  "hummer": {
+    "name": "Hummer",
+    "website": "https://www.hummer.com",
+    "industry": "Automotive",
+    "founded": "1992-01-01"
+  },
+  "hyundai": {
+    "name": "Hyundai",
+    "website": "https://www.hyundai.com",
+    "industry": "Automotive",
+    "founded": "1967-12-29"
+  },
+  "infiniti": {
+    "name": "Infiniti",
+    "website": "https://www.infiniti.com",
+    "industry": "Automotive",
+    "founded": "1989-11-08"
+  },
+  "isuzu": {
+    "name": "Isuzu",
+    "website": "https://www.isuzu.com",
+    "industry": "Automotive",
+    "founded": "1916-04-09"
+  },
+  "jaguar": {
+    "name": "Jaguar",
+    "website": "https://www.jaguar.com",
+    "industry": "Automotive",
+    "founded": "1922-09-04"
+  },
+  "jeep": {
+    "name": "Jeep",
+    "website": "https://www.jeep.com",
+    "industry": "Automotive",
+    "founded": "1941-01-01"
+  },
+  "joss": {
+    "name": "Joss",
+    "website": "https://www.joss.com",
+    "industry": "Automotive",
+    "founded": "1998-01-01"
+  },
+  "kia": {
+    "name": "Kia",
+    "website": "https://www.kia.com",
+    "industry": "Automotive",
+    "founded": "1944-12-11"
+  },
+  "koenigsegg": {
+    "name": "Koenigsegg",
+    "website": "https://www.koenigsegg.com",
+    "industry": "Automotive",
+    "founded": "1994-01-01"
+  },
+  "lada": {
+    "name": "Lada",
+    "website": "https://www.lada.ru",
+    "industry": "Automotive",
+    "founded": "1973-01-01"
+  },
+  "lamborghini": {
+    "name": "Lamborghini",
+    "website": "https://www.lamborghini.com",
+    "industry": "Automotive",
+    "founded": "1963-05-07"
+  },
+  "lancia": {
+    "name": "Lancia",
+    "website": "https://www.lancia.com",
+    "industry": "Automotive",
+    "founded": "1906-11-29"
+  },
+  "land_rover": {
+    "name": "Land Rover",
+    "website": "https://www.landrover.com",
+    "industry": "Automotive",
+    "founded": "1948-01-01"
+  },
+  "lexus": {
+    "name": "Lexus",
+    "website": "https://www.lexus.com",
+    "industry": "Automotive",
+    "founded": "1989-01-01"
+  },
+  "lincoln": {
+    "name": "Lincoln",
+    "website": "https://www.lincoln.com",
+    "industry": "Automotive",
+    "founded": "1917-08-02"
+  },
+  "lotus": {
+    "name": "Lotus",
+    "website": "https://www.lotuscars.com",
+    "industry": "Automotive",
+    "founded": "1948-01-01"
+  },
+  "luxgen": {
+    "name": "Luxgen",
+    "website": "https://www.luxgen-motor.com",
+    "industry": "Automotive",
+    "founded": "2009-01-01"
+  },
+  "mahindra": {
+    "name": "Mahindra",
+    "website": "https://www.mahindra.com",
+    "industry": "Automotive",
+    "founded": "1945-10-02"
+  },
+  "maruti_suzuki": {
+    "name": "Maruti Suzuki",
+    "website": "https://www.marutisuzuki.com",
+    "industry": "Automotive",
+    "founded": "1981-01-01"
+  },
+  "maserati": {
+    "name": "Maserati",
+    "website": "https://www.maserati.com",
+    "industry": "Automotive",
+    "founded": "1914-12-01"
+  },
+  "maybach": {
+    "name": "Maybach",
+    "website": "https://www.maybach.com",
+    "industry": "Automotive",
+    "founded": "1909-03-23"
+  },
+  "mazda": {
+    "name": "Mazda",
+    "website": "https://www.mazda.com",
+    "industry": "Automotive",
+    "founded": "1920-01-30"
+  },
+  "mclaren": {
+    "name": "Mclaren",
+    "website": "https://www.mclaren.com",
+    "industry": "Automotive",
+    "founded": "1963-09-02"
+  },
+  "mercedes": {
+    "name": "Mercedes",
+    "website": "https://www.mercedes-benz.com",
+    "industry": "Automotive",
+    "founded": "1926-06-28"
+  },
+  "mg": {
+    "name": "MG",
+    "website": "https://www.mgmotor.co.uk",
+    "industry": "Automotive",
+    "founded": "1924-05-01"
+  },
+  "mini": {
+    "name": "Mini",
+    "website": "https://www.mini.com",
+    "industry": "Automotive",
+    "founded": "1959-08-26"
+  },
+  "mitsubishi": {
+    "name": "Mitsubishi",
+    "website": "https://www.mitsubishi-motors.com",
+    "industry": "Automotive",
+    "founded": "1870-01-01"
+  },
+  "morgan_motor": {
+    "name": "Morgan Motor",
+    "website": "https://www.morgan-motor.com",
+    "industry": "Automotive",
+    "founded": "1910-01-01"
+  },
+  "mustang_logo": {
+    "name": "Mustang logo",
+    "website": "https://www.ford.com/cars/mustang",
+    "industry": "Automotive",
+    "founded": "1964-04-17"
+  },
+  "nissan": {
+    "name": "Nissan",
+    "website": "https://www.nissan-global.com",
+    "industry": "Automotive",
+    "founded": "1933-12-26"
+  },
+  "noble": {
+    "name": "Noble",
+    "website": "https://www.noblecars.com",
+    "industry": "Automotive",
+    "founded": "1999-01-01"
+  },
+  "opel": {
+    "name": "Opel",
+    "website": "https://www.opel.com",
+    "industry": "Automotive",
+    "founded": "1862-01-21"
+  },
+  "pagani": {
+    "name": "Pagani",
+    "website": "https://www.pagani.com",
+    "industry": "Automotive",
+    "founded": "1992-01-01"
+  },
+  "panoz": {
+    "name": "Panoz",
+    "website": "https://www.panoz.com",
+    "industry": "Automotive",
+    "founded": "1989-01-01"
+  },
+  "perodua": {
+    "name": "Perodua",
+    "website": "https://www.perodua.com.my",
+    "industry": "Automotive",
+    "founded": "1992-01-01"
+  },
+  "peugeot": {
+    "name": "Peugeot",
+    "website": "https://www.peugeot.com",
+    "industry": "Automotive",
+    "founded": "1810-01-01"
+  },
+  "piaggio": {
+    "name": "Piaggio",
+    "website": "https://www.piaggio.com",
+    "industry": "Automotive",
+    "founded": "1884-01-01"
+  },
+  "pininfarina": {
+    "name": "Pininfarina",
+    "website": "https://www.pininfarina.com",
+    "industry": "Automotive",
+    "founded": "1930-05-22"
+  },
+  "porsche": {
+    "name": "Porsche",
+    "website": "https://www.porsche.com",
+    "industry": "Automotive",
+    "founded": "1931-04-25"
+  },
+  "proton": {
+    "name": "Proton",
+    "website": "https://www.proton.com",
+    "industry": "Automotive",
+    "founded": "1983-05-07"
+  },
+  "renault": {
+    "name": "Renault",
+    "website": "https://www.renault.com",
+    "industry": "Automotive",
+    "founded": "1899-02-25"
+  },
+  "reva": {
+    "name": "Reva",
+    "website": "https://www.reva.com",
+    "industry": "Automotive",
+    "founded": "1994-01-01"
+  },
+  "rimac": {
+    "name": "Rimac",
+    "website": "https://www.rimac-automobili.com",
+    "industry": "Automotive",
+    "founded": "2009-01-01"
+  },
+  "rolls_royce": {
+    "name": "Rolls Royce",
+    "website": "https://www.rolls-roycemotorcars.com",
+    "industry": "Automotive",
+    "founded": "1906-03-15"
+  },
+  "ruf_logo": {
+    "name": "Ruf logo",
+    "website": "https://www.ruf-automobile.de",
+    "industry": "Automotive",
+    "founded": "1939-01-01"
+  },
+  "saab": {
+    "name": "Saab",
+    "website": "https://www.saabcars.com",
+    "industry": "Automotive",
+    "founded": "1945-04-01"
+  },
+  "scania": {
+    "name": "Scania",
+    "website": "https://www.scania.com",
+    "industry": "Automotive",
+    "founded": "1911-01-01"
+  },
+  "scion": {
+    "name": "Scion",
+    "website": "https://www.toyota.com/scion",
+    "industry": "Automotive",
+    "founded": "2003-01-01"
+  },
+  "seat": {
+    "name": "Seat",
+    "website": "https://www.seat.com",
+    "industry": "Automotive",
+    "founded": "1950-05-09"
+  },
+  "shelby": {
+    "name": "Shelby",
+    "website": "https://www.shelby.com",
+    "industry": "Automotive",
+    "founded": "1962-01-01"
+  },
+  "skoda": {
+    "name": "Skoda",
+    "website": "https://www.skoda-auto.com",
+    "industry": "Automotive",
+    "founded": "1895-12-18"
+  },
+  "smart": {
+    "name": "Smart",
+    "website": "https://www.smart.com",
+    "industry": "Automotive",
+    "founded": "1994-01-01"
+  },
+  "spyker": {
+    "name": "Spyker",
+    "website": "https://www.spykercars.com",
+    "industry": "Automotive",
+    "founded": "1999-01-01"
+  },
+  "ssangyong": {
+    "name": "Ssangyong",
+    "website": "https://www.smotor.com",
+    "industry": "Automotive",
+    "founded": "1954-01-01"
+  },
+  "ssc": {
+    "name": "SSC",
+    "website": "https://www.sscnorthamerica.com",
+    "industry": "Automotive",
+    "founded": "1999-01-01"
+  },
+  "subaru": {
+    "name": "Subaru",
+    "website": "https://www.subaru.com",
+    "industry": "Automotive",
+    "founded": "1953-07-15"
+  },
+  "suzuki": {
+    "name": "Suzuki",
+    "website": "https://www.globalsuzuki.com",
+    "industry": "Automotive",
+    "founded": "1909-03-15"
+  },
+  "tata motors": {
+    "name": "Tata Motors",
+    "website": "https://www.tatamotors.com",
+    "industry": "Automotive",
+    "founded": "1945-01-01"
+  },
+  "tatra": {
+    "name": "Tatra",
+    "website": "https://www.tatra.cz",
+    "industry": "Automotive",
+    "founded": "1850-01-01"
+  },
+  "tesla": {
+    "name": "Tesla",
+    "website": "https://www.tesla.com",
+    "industry": "Automotive",
+    "founded": "2003-07-01"
+  },
+  "toyota": {
+    "name": "Toyota",
+    "website": "https://www.toyota-global.com",
+    "industry": "Automotive",
+    "founded": "1937-08-28"
+  },
+  "tramontana": {
+    "name": "Tramontana",
+    "website": "https://www.tramontanacar.com",
+    "industry": "Automotive",
+    "founded": "2005-01-01"
+  },
+  "troller": {
+    "name": "Troller",
+    "website": "https://www.troller.com.br",
+    "industry": "Automotive",
+    "founded": "1995-01-01"
+  },
+  "tvr": {
+    "name": "TVR",
+    "website": "https://www.tvr.co.uk",
+    "industry": "Automotive",
+    "founded": "1946-01-01"
+  },
+  "uaz": {
+    "name": "UAZ",
+    "website": "https://www.uaz.ru",
+    "industry": "Automotive",
+    "founded": "1941-01-01"
+  },
+  "vandenbrink": {
+    "name": "Vandenbrink",
+    "website": "https://www.vandenbrinkdesign.com",
+    "industry": "Automotive",
+    "founded": "2006-01-01"
+  },
+  "vauxhall": {
+    "name": "Vauxhall",
+    "website": "https://www.vauxhall.co.uk",
+    "industry": "Automotive",
+    "founded": "1857-01-01"
+  },
+  "vector_motors": {
+    "name": "Vector Motors",
+    "website": "https://www.vectormotors.com",
+    "industry": "Automotive",
+    "founded": "1971-01-01"
+  },
+  "venturi": {
+    "name": "Venturi",
+    "website": "https://www.venturi.com",
+    "industry": "Automotive",
+    "founded": "1984-01-01"
+  },
+  "volkswagen": {
+    "name": "Volkswagen",
+    "website": "https://www.volkswagen.com",
+    "industry": "Automotive",
+    "founded": "1937-05-28"
+  },
+  "volvo": {
+    "name": "Volvo",
+    "website": "https://www.volvo.com",
+    "industry": "Automotive",
+    "founded": "1927-04-14"
+  },
+  "wiesmann": {
+    "name": "Wiesmann",
+    "website": "https://www.wiesmann.com",
+    "industry": "Automotive",
+    "founded": "1988-01-01"
+  },
+  "zagato": {
+    "name": "Zagato",
+    "website": "https://www.zagato.it",
+    "industry": "Automotive",
+    "founded": "1919-01-01"
+  },
+  "zaz": {
+    "name": "Zaz",
+    "website": "https://www.avtozaz.com",
+    "industry": "Automotive",
+    "founded": "1923-01-01"
+  },
+  "zil": {
+    "name": "Zil",
+    "website": "https://www.zil.ru",
+    "industry": "Automotive",
+    "founded": "1916-08-02"
+  },
+
+  "reliance_retail": {
+    "name": "Reliance Retail",
+    "website": "https://www.relianceretail.com",
+    "industry": "Retail",
+    "founded": "2006-01-01"
+  },
+  "future_retail": {
+    "name": "Future Retail",
+    "website": "https://www.futureretail.in",
+    "industry": "Retail",
+    "founded": "1987-01-01"
+  },
+  "tata_group": {
+    "name": "Tata Group",
+    "website": "https://www.tata.com",
+    "industry": "Conglomerate",
+    "founded": "1868-01-01"
+  },
+  "aditya_birla_retail": {
+    "name": "Aditya Birla Retail",
+    "website": "https://www.adityabirla.com",
+    "industry": "Retail",
+    "founded": "2007-01-01"
+  },
+  "shoppers_stop": {
+    "name": "Shoppers Stop",
+    "website": "https://www.shoppersstop.com",
+    "industry": "Retail",
+    "founded": "1991-01-01"
+  },
+  "pantaloons": {
+    "name": "Pantaloons",
+    "website": "https://www.pantaloons.com",
+    "industry": "Retail",
+    "founded": "1997-01-01"
+  },
+  "spencers_retail": {
+    "name": "Spencer's Retail",
+    "website": "https://www.spencersretail.com",
+    "industry": "Retail",
+    "founded": "1863-01-01"
+  },
+  "big_bazaar": {
+    "name": "Big Bazaar",
+    "website": "https://www.bigbazaar.com",
+    "industry": "Retail",
+    "founded": "2001-01-01"
+  },
+  "d_mart": {
+    "name": "D-Mart",
+    "website": "https://www.dmartindia.com",
+    "industry": "Retail",
+    "founded": "2002-01-01"
+  },
+  "v_mart_retail": {
+    "name": "V-Mart Retail",
+    "website": "https://www.vmart.co.in",
+    "industry": "Retail",
+    "founded": "2002-01-01"
+  },
+  "reliance_trends": {
+    "name": "Reliance Trends",
+    "website": "https://www.reliancetrends.com",
+    "industry": "Retail",
+    "founded": "2007-01-01"
+  },
+  "westside": {
+    "name": "Westside",
+    "website": "https://www.westside.com",
+    "industry": "Retail",
+    "founded": "1998-01-01"
+  },
+  "lifestyle": {
+    "name": "Lifestyle",
+    "website": "https://www.lifestylestores.com",
+    "industry": "Retail",
+    "founded": "1999-01-01"
+  },
+  "max_fashion": {
+    "name": "Max Fashion",
+    "website": "https://www.maxfashion.in",
+    "industry": "Retail",
+    "founded": "2004-01-01"
+  },
+  "central": {
+    "name": "Central",
+    "website": "https://www.centralandme.com",
+    "industry": "Retail",
+    "founded": "2004-01-01"
+  },
+  "reliance_digital": {
+    "name": "Reliance Digital",
+    "website": "https://www.reliancedigital.in",
+    "industry": "Retail",
+    "founded": "2007-01-01"
+  },
+  "croma": {
+    "name": "Croma",
+    "website": "https://www.croma.com",
+    "industry": "Retail",
+    "founded": "2006-01-01"
+  },
+  "vijay_sales": {
+    "name": "Vijay Sales",
+    "website": "https://www.vijaysales.com",
+    "industry": "Retail",
+    "founded": "1967-01-01"
+  },
+
+  "godrej_natures_basket": {
+    "name": "Godrej Nature's Basket",
+    "website": "https://www.naturesbasket.co.in",
+    "industry": "Retail",
+    "founded": "2005-01-01"
+  },
+  "bigbasket": {
+    "name": "BigBasket",
+    "website": "https://www.bigbasket.com",
+    "industry": "Retail",
+    "founded": "2011-01-01"
+  },
+  "grofers": {
+    "name": "Grofers",
+    "website": "https://www.grofers.com",
+    "industry": "Retail",
+    "founded": "2013-01-01"
+  },
+  "flipkart": {
+    "name": "Flipkart",
+    "website": "https://www.flipkart.com",
+    "industry": "Retail",
+    "founded": "2007-01-01"
+  },
+  "amazon_india": {
+    "name": "Amazon India",
+    "website": "https://www.amazon.in",
+    "industry": "Retail",
+    "founded": "2013-01-01"
+  },
+  "myntra": {
+    "name": "Myntra",
+    "website": "https://www.myntra.com",
+    "industry": "Retail",
+    "founded": "2007-01-01"
+  },
+  "jabong": {
+    "name": "Jabong",
+    "website": "https://www.jabong.com",
+    "industry": "Retail",
+    "founded": "2011-01-01"
+  },
+  "ajio": {
+    "name": "Ajio",
+    "website": "https://www.ajio.com",
+    "industry": "Retail",
+    "founded": "2016-01-01"
+  },
+  "snapdeal": {
+    "name": "Snapdeal",
+    "website": "https://www.snapdeal.com",
+    "industry": "Retail",
+    "founded": "2010-01-01"
+  },
+  "paytm_mall": {
+    "name": "Paytm Mall",
+    "website": "https://www.paytmmall.com",
+    "industry": "Retail",
+    "founded": "2016-01-01"
+  },
+  "shopclues": {
+    "name": "ShopClues",
+    "website": "https://www.shopclues.com",
+    "industry": "Retail",
+    "founded": "2011-01-01"
+  },
+  "tata_cliql": {
+    "name": "Tata Cliq",
+    "website": "https://www.tatacliq.com",
+    "industry": "Retail",
+    "founded": "2016-01-01"
+  },
+  "pepperfry": {
+    "name": "Pepperfry",
+    "website": "https://www.pepperfry.com",
+    "industry": "Retail",
+    "founded": "2011-01-01"
+  },
+  "lenskart": {
+    "name": "Lenskart",
+    "website": "https://www.lenskart.com",
+    "industry": "Retail",
+    "founded": "2010-01-01"
+  },
+  "nykaa": {
+    "name": "Nykaa",
+    "website": "https://www.nykaa.com",
+    "industry": "Retail",
+    "founded": "2012-01-01"
+  },
+  "firstcry": {
+    "name": "FirstCry",
+    "website": "https://www.firstcry.com",
+    "industry": "Retail",
+    "founded": "2010-01-01"
+  },
+  "zivame": {
+    "name": "Zivame",
+    "website": "https://www.zivame.com",
+    "industry": "Retail",
+    "founded": "2011-01-01"
+  },
+  "clovia": {
+    "name": "Clovia",
+    "website": "https://www.clovia.com",
+    "industry": "Retail",
+    "founded": "2013-01-01"
+  },
+  "bewakoof": {
+    "name": "Bewakoof",
+    "website": "https://www.bewakoof.com",
+    "industry": "Retail",
+    "founded": "2012-01-01"
+  },
+  "mivi": {
+    "name": "Mivi",
+    "website": "https://www.mivi.in",
+    "industry": "Retail",
+    "founded": "2015-01-01"
+  },
+  "boat": {
+    "name": "Boat",
+    "website": "https://www.boat-lifestyle.com",
+    "industry": "Retail",
+    "founded": "2015-01-01"
+  },
+  "realme": {
+    "name": "Realme",
+    "website": "https://www.realme.com",
+    "industry": "Retail",
+    "founded": "2018-01-01"
+  },
+  "oneplus": {
+    "name": "OnePlus",
+    "website": "https://www.oneplus.in",
+    "industry": "Retail",
+    "founded": "2013-01-01"
+  },
+
+  "mi": {
+    "name": "Xiaomi",
+    "website": "https://www.mi.com/in",
+    "industry": "Retail",
+    "founded": "2010-01-01"
+  },
+  "xiaomi": {
+    "name": "Xiaomi",
+    "website": "https://www.mi.com/in",
+    "industry": "Retail",
+    "founded": "2010-01-01"
+  },
+  "samsung_india": {
+    "name": "Samsung India",
+    "website": "https://www.samsung.com/in",
+    "industry": "Retail",
+    "founded": "1995-01-01"
+  },
+  "apple_india": {
+    "name": "Apple India",
+    "website": "https://www.apple.com/in",
+    "industry": "Retail",
+    "founded": "1976-01-01"
+  },
+  "sony_india": {
+    "name": "Sony India",
+    "website": "https://www.sony.co.in",
+    "industry": "Retail",
+    "founded": "1994-01-01"
+  },
+  "lg_india": {
+    "name": "LG India",
+    "website": "https://www.lg.com/in",
+    "industry": "Retail",
+    "founded": "1958-01-01"
+  },
+  "whirlpool_india": {
+    "name": "Whirlpool India",
+    "website": "https://www.whirlpoolindia.com",
+    "industry": "Retail",
+    "founded": "1987-01-01"
+  },
+  "voltas": {
+    "name": "Voltas",
+    "website": "https://www.voltas.com",
+    "industry": "Retail",
+    "founded": "1954-01-01"
+  },
+  "godrej_appliances": {
+    "name": "Godrej Appliances",
+    "website": "https://www.godrejappliances.com",
+    "industry": "Retail",
+    "founded": "1958-01-01"
+  },
+  "panasonic_india": {
+    "name": "Panasonic India",
+    "website": "https://www.panasonic.com/in",
+    "industry": "Retail",
+    "founded": "1918-01-01"
+  },
+  "bosch_india": {
+    "name": "Bosch India",
+    "website": "https://www.bosch-home.in",
+    "industry": "Retail",
+    "founded": "1951-01-01"
+  },
+  "haier_india": {
+    "name": "Haier India",
+    "website": "https://www.haier.com/in",
+    "industry": "Retail",
+    "founded": "1984-01-01"
+  },
+  "kenstar_india": {
+    "name": "Kenstar India",
+    "website": "https://www.kenstar.in",
+    "industry": "Retail",
+    "founded": "1996-01-01"
+  },
+  "symphony_limited": {
+    "name": "Symphony Limited",
+    "website": "https://www.symphonylimited.com",
+    "industry": "Retail",
+    "founded": "1988-01-01"
+  },
+  "usha_international": {
+    "name": "Usha International",
+    "website": "https://www.usha.com",
+    "industry": "Retail",
+    "founded": "1934-01-01"
+  },
+  "bajaj_electricals": {
+    "name": "Bajaj Electricals",
+    "website": "https://www.bajajelectricals.com",
+    "industry": "Retail",
+    "founded": "1938-01-01"
+  },
+  "philips_india": {
+    "name": "Philips India",
+    "website": "https://www.philips.co.in",
+    "industry": "Retail",
+    "founded": "1930-01-01"
+  },
+
+  "crompton_greaves": {
+    "name": "Crompton Greaves",
+    "website": "https://www.crompton.co.in",
+    "industry": "Retail",
+    "founded": "1878-01-01"
+  },
+  "orient_electric": {
+    "name": "Orient Electric",
+    "website": "https://www.orientelectric.com",
+    "industry": "Retail",
+    "founded": "1954-01-01"
+  },
+  "anchor_electricals": {
+    "name": "Anchor Electricals",
+    "website": "https://www.anchor-world.com",
+    "industry": "Retail",
+    "founded": "1963-01-01"
+  },
+  "luminous_power": {
+    "name": "Luminous Power",
+    "website": "https://www.luminousindia.com",
+    "industry": "Retail",
+    "founded": "1988-01-01"
+  },
+  "microtek": {
+    "name": "Microtek",
+    "website": "https://www.microtekdirect.com",
+    "industry": "Retail",
+    "founded": "1989-01-01"
+  },
+  "exide_industries": {
+    "name": "Exide Industries",
+    "website": "https://www.exideindustries.com",
+    "industry": "Retail",
+    "founded": "1947-01-01"
+  },
+  "amaron": {
+    "name": "Amaron",
+    "website": "https://www.amaron.in",
+    "industry": "Retail",
+    "founded": "1985-01-01"
+  },
+  "rocket_battery": {
+    "name": "Rocket Battery",
+    "website": "https://www.rocketbattery.com",
+    "industry": "Retail",
+    "founded": "1986-01-01"
+  },
+  "v-guard": {
+    "name": "V-Guard",
+    "website": "https://www.vguard.in",
+    "industry": "Retail",
+    "founded": "1977-01-01"
+  },
+  "tata_power_solar": {
+    "name": "Tata Power Solar",
+    "website": "https://www.tatapowersolar.com",
+    "industry": "Retail",
+    "founded": "1989-01-01"
+  },
+  "waaree_solar": {
+    "name": "Waaree Solar",
+    "website": "https://www.waaree.com",
+    "industry": "Retail",
+    "founded": "1989-01-01"
+  },
+  "luminous_solar": {
+    "name": "Luminous Solar",
+    "website": "https://www.luminousindia.com/solar",
+    "industry": "Retail",
+    "founded": "1988-01-01"
+  },
+  "sukam_solar": {
+    "name": "Sukam Solar",
+    "website": "https://www.su-kam.com",
+    "industry": "Retail",
+    "founded": "1988-01-01"
+  },
+  "osram_india": {
+    "name": "Osram India",
+    "website": "https://www.osram.in",
+    "industry": "Retail",
+    "founded": "1919-01-01"
+  },
+  "syska_led": {
+    "name": "Syska LED",
+    "website": "https://www.syska.co.in",
+    "industry": "Retail",
+    "founded": "1989-01-01"
+  },
+  "wipro_lighting": {
+    "name": "Wipro Lighting",
+    "website": "https://www.wiprolighting.com",
+    "industry": "Retail",
+    "founded": "1992-01-01"
+  },
+  "phillips_lighting": {
+    "name": "Philips Lighting",
+    "website": "https://www.signify.com",
+    "industry": "Retail",
+    "founded": "1891-01-01"
+  },
+  "india_cements": {
+    "name": "India Cements",
+    "website": "https://www.indiacements.co.in",
+    "industry": "Cement",
+    "founded": "1946-01-01"
+  },
+  "ultratech_cement": {
+    "name": "UltraTech Cement",
+    "website": "https://www.ultratechcement.com",
+    "industry": "Cement",
+    "founded": "1983-01-01"
+  },
+  "ambuja_cements": {
+    "name": "Ambuja Cements",
+    "website": "https://www.ambujacement.com",
+    "industry": "Cement",
+    "founded": "1983-01-01"
+  },
+  "acc_cement": {
+    "name": "ACC Cement",
+    "website": "https://www.acclimited.com",
+    "industry": "Cement",
+    "founded": "1936-01-01"
+  },
+  "shree_cements": {
+    "name": "Shree Cements",
+    "website": "https://www.shreecement.com",
+    "industry": "Cement",
+    "founded": "1979-01-01"
+  },
+  "ramco_cements": {
+    "name": "Ramco Cements",
+    "website": "https://www.ramcocements.in",
+    "industry": "Cement",
+    "founded": "1957-01-01"
+  },
+  "dalmia_bharat_cement": {
+    "name": "Dalmia Bharat Cement",
+    "website": "https://www.dalmiabharat.com",
+    "industry": "Cement",
+    "founded": "1939-01-01"
+  },
+  "jk_lakshmi_cement": {
+    "name": "JK Lakshmi Cement",
+    "website": "https://www.jklakshmicement.com",
+    "industry": "Cement",
+    "founded": "1982-01-01"
+  },
+  "birla_cement": {
+    "name": "Birla Cement",
+    "website": "https://www.birlacorporation.com",
+    "industry": "Cement",
+    "founded": "1919-01-01"
+  },
+  "orient_cement": {
+    "name": "Orient Cement",
+    "website": "https://www.orientcement.com",
+    "industry": "Cement",
+    "founded": "1979-01-01"
+  },
+
+  "boAt": {
+    "name": "boAt",
+    "website": "https://www.boat-lifestyle.com",
+    "industry": "Retail",
+    "founded": "2015-01-01"
+  },
+  "meesho": {
+    "name": "Meesho",
+    "website": "https://www.meesho.com",
+    "industry": "Retail",
+    "founded": "2015-01-01"
+  },
+  "zomato": {
+    "name": "Zomato",
+    "website": "https://www.zomato.com",
+    "industry": "Retail",
+    "founded": "2008-01-01"
+  },
+  "swiggy": {
+    "name": "Swiggy",
+    "website": "https://www.swiggy.com",
+    "industry": "Retail",
+    "founded": "2014-01-01"
+  },
+  "hul": {
+    "name": "Hindustan Unilever Limited",
+    "website": "https://www.hul.co.in",
+    "industry": "FMCG",
+    "founded": "1933-01-01"
+  },
+  "itc": {
+    "name": "ITC Limited",
+    "website": "https://www.itcportal.com",
+    "industry": "FMCG",
+    "founded": "1910-08-24"
+  },
+  "nestle_india": {
+    "name": "Nestlé India",
+    "website": "https://www.nestle.in",
+    "industry": "FMCG",
+    "founded": "1959-04-28"
+  },
+  "britannia": {
+    "name": "Britannia Industries",
+    "website": "https://www.britannia.co.in",
+    "industry": "FMCG",
+    "founded": "1892-01-01"
+  },
+  "dabur": {
+    "name": "Dabur India",
+    "website": "https://www.dabur.com",
+    "industry": "FMCG",
+    "founded": "1884-01-01"
+  },
+  "colgate_palmolive": {
+    "name": "Colgate-Palmolive (India) Ltd.",
+    "website": "https://www.colgatepalmolive.co.in",
+    "industry": "FMCG",
+    "founded": "1937-01-01"
+  },
+  "marico": {
+    "name": "Marico Limited",
+    "website": "https://www.marico.com",
+    "industry": "FMCG",
+    "founded": "1987-01-01"
+  },
+  "godrej_consumer": {
+    "name": "Godrej Consumer Products Limited",
+    "website": "https://www.godrejcp.com",
+    "industry": "FMCG",
+    "founded": "2001-01-01"
+  },
+  "amul": {
+    "name": "Amul",
+    "website": "https://www.amul.com",
+    "industry": "FMCG",
+    "founded": "1946-12-14"
+  },
+
+  "himalaya_wellness": {
+    "name": "Himalaya Wellness",
+    "website": "https://www.himalayawellness.in",
+    "industry": "FMCG",
+    "founded": "1930-01-01"
+  },
+  "parle_agro": {
+    "name": "Parle Agro",
+    "website": "https://www.parleagro.com",
+    "industry": "FMCG",
+    "founded": "1985-01-01"
+  },
+  "procter_gamble": {
+    "name": "Procter & Gamble India",
+    "website": "https://www.pg.com/en_IN",
+    "industry": "FMCG",
+    "founded": "1964-01-01"
+  },
+  "unilever_india": {
+    "name": "Unilever India",
+    "website": "https://www.unilever.com/in",
+    "industry": "FMCG",
+    "founded": "1933-01-01"
+  },
+  "cadbury_india": {
+    "name": "Cadbury India",
+    "website": "https://www.cadbury.co.in",
+    "industry": "FMCG",
+    "founded": "1948-01-01"
+  },
+  "kelloggs_india": {
+    "name": "Kellogg's India",
+    "website": "https://www.kelloggs.in",
+    "industry": "FMCG",
+    "founded": "1994-01-01"
+  },
+  "dettol_india": {
+    "name": "Dettol India",
+    "website": "https://www.dettol.co.in",
+    "industry": "FMCG",
+    "founded": "1933-01-01"
+  },
+  "johnson_johnson": {
+    "name": "Johnson & Johnson India",
+    "website": "https://www.jnjindia.com",
+    "industry": "FMCG",
+    "founded": "1947-01-01"
+  },
+  "pepsico_india": {
+    "name": "PepsiCo India",
+    "website": "https://www.pepsicoindia.co.in",
+    "industry": "FMCG",
+    "founded": "1989-01-01"
+  },
+  "britannia_industries": {
+    "name": "Britannia Industries",
+    "website": "https://www.britannia.co.in",
+    "industry": "FMCG",
+    "founded": "1892-01-01"
+  },
+  "glaxosmithkline_consumer_healthcare": {
+    "name": "GlaxoSmithKline Consumer Healthcare",
+    "website": "https://www.gsk-ch.in",
+    "industry": "FMCG",
+    "founded": "1924-01-01"
+  },
+  "reliance_fresh": {
+    "name": "Reliance Fresh",
+    "website": "https://www.relianceretail.com/reliance-fresh.html",
+    "industry": "FMCG",
+    "founded": "2006-01-01"
+  },
+  "dabur_india": {
+    "name": "Dabur India",
+    "website": "https://www.dabur.com",
+    "industry": "FMCG",
+    "founded": "1884-01-01"
+  },
+  "cadila_healthcare": {
+    "name": "Cadila Healthcare",
+    "website": "https://www.zyduscadila.com",
+    "industry": "FMCG",
+    "founded": "1952-01-01"
+  },
+  "marico_limited": {
+    "name": "Marico Limited",
+    "website": "https://www.marico.com",
+    "industry": "FMCG",
+    "founded": "1987-01-01"
+  },
+  "godrej_conumer_products": {
+    "name": "Godrej Consumer Products",
+    "website": "https://www.godrejcp.com",
+    "industry": "FMCG",
+    "founded": "2001-01-01"
+  },
+  "amul_india": {
+    "name": "Amul India",
+    "website": "https://www.amul.com",
+    "industry": "FMCG",
+    "founded": "1946-12-14"
+  },
+  "pampers_india": {
+    "name": "Pampers India",
+    "website": "https://www.pampers.in",
+    "industry": "FMCG",
+    "founded": "1961-01-01"
+  },
+  "havells_india": {
+    "name": "Havells India",
+    "website": "https://www.havells.com",
+    "industry": "FMCG",
+    "founded": "1958-01-01"
+  },
+  "pears_india": {
+    "name": "Pears India",
+    "website": "https://www.pearsindia.com",
+    "industry": "FMCG",
+    "founded": "1807-01-01"
+  },
+  "apple": {
+    "name": "Apple",
+    "website": "https://www.apple.com",
+    "industry": "Smartphones",
+    "founded": "1976-04-01"
+  },
+  "samsung": {
+    "name": "Samsung",
+    "website": "https://www.samsung.com",
+    "industry": "Smartphones",
+    "founded": "1938-03-01"
+  },
+
+  "oppo": {
+    "name": "Oppo",
+    "website": "https://www.oppo.com",
+    "industry": "Smartphones",
+    "founded": "2001-01-01"
+  },
+  "vivo": {
+    "name": "Vivo",
+    "website": "https://www.vivo.com",
+    "industry": "Smartphones",
+    "founded": "2009-01-01"
+  },
+  "huawei": {
+    "name": "Huawei",
+    "website": "https://consumer.huawei.com",
+    "industry": "Smartphones",
+    "founded": "1987-09-15"
+  },
+  "sony_mobile": {
+    "name": "Sony Mobile",
+    "website": "https://www.sonymobile.com",
+    "industry": "Smartphones",
+    "founded": "2001-10-01"
+  },
+  "lenovo": {
+    "name": "Lenovo",
+    "website": "https://www.lenovo.com",
+    "industry": "Smartphones",
+    "founded": "1984-11-01"
+  },
+  "motorola": {
+    "name": "Motorola",
+    "website": "https://www.motorola.com",
+    "industry": "Smartphones",
+    "founded": "1928-01-01"
+  },
+  "nokia": {
+    "name": "Nokia",
+    "website": "https://www.nokia.com",
+    "industry": "Smartphones",
+    "founded": "1865-05-12"
+  },
+  "google_pixel": {
+    "name": "Google Pixel",
+    "website": "https://store.google.com",
+    "industry": "Smartphones",
+    "founded": "1998-09-04"
+  },
+  "asus": {
+    "name": "Asus",
+    "website": "https://www.asus.com",
+    "industry": "Smartphones",
+    "founded": "1989-04-02"
+  },
+  "lg_mobile": {
+    "name": "LG Mobile",
+    "website": "https://www.lg.com",
+    "industry": "Smartphones",
+    "founded": "1958-10-01"
+  },
+  "htc": {
+    "name": "HTC",
+    "website": "https://www.htc.com",
+    "industry": "Smartphones",
+    "founded": "1997-05-15"
+  },
+  "blackberry": {
+    "name": "BlackBerry",
+    "website": "https://www.blackberry.com",
+    "industry": "Smartphones",
+    "founded": "1984-03-07"
+  },
+  "zte": {
+    "name": "ZTE",
+    "website": "https://www.ztedevices.com",
+    "industry": "Smartphones",
+    "founded": "1985-04-25"
+  },
+  "sharp": {
+    "name": "Sharp",
+    "website": "https://global.sharp",
+    "industry": "Smartphones",
+    "founded": "1912-09-15"
+  },
+  "panasonic_mobile": {
+    "name": "Panasonic Mobile",
+    "website": "https://www.panasonic.com",
+    "industry": "Smartphones",
+    "founded": "1918-03-13"
+  }
+}

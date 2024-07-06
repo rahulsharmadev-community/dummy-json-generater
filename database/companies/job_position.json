@@ -1,5 +1,5 @@
-[
-  {
+{
+  "software_developer": {
     "position": "Software Developer",
     "responsibilities": [
       "Design and implement software solutions",
@@ -7,8 +7,7 @@
       "Collaborate with team members to refine and improve software"
     ]
   },
-
-  {
+  "systems_administrator": {
     "position": "Systems Administrator",
     "responsibilities": [
       "Install, configure, and maintain servers and other computer systems",
@@ -16,8 +15,7 @@
       "Back up and restore data"
     ]
   },
-
-  {
+  "network_engineer": {
     "position": "Network Engineer",
     "responsibilities": [
       "Design, implement, and maintain network infrastructure",
@@ -25,8 +23,7 @@
       "Configure and maintain network security"
     ]
   },
-
-  {
+  "project_manager": {
     "position": "Project Manager",
     "responsibilities": [
       "Plan and coordinate IT projects",
@@ -34,8 +31,7 @@
       "Communicate with team members and stakeholders"
     ]
   },
-
-  {
+  "technical_support_specialist": {
     "position": "Technical Support Specialist",
     "responsibilities": [
       "Assist users with technical issues and troubleshoot problems",
@@ -43,8 +39,7 @@
       "Maintain documentation of technical processes and procedures"
     ]
   },
-
-  {
+  "information_security_analyst": {
     "position": "Information Security Analyst",
     "responsibilities": [
       "Monitor and assess security risks to an organization's information systems",
@@ -52,8 +47,7 @@
       "Conduct security audits and investigations"
     ]
   },
-
-  {
+  "data_scientist": {
     "position": "Data Scientist",
     "responsibilities": [
       "Analyze and interpret complex data sets",
@@ -61,8 +55,7 @@
       "Communicate findings to team members and stakeholders"
     ]
   },
-
-  {
+  "dev_ops_engineer": {
     "position": "DevOps Engineer",
     "responsibilities": [
       "Collaborate with software developers and systems administrators to deploy and maintain applications",
@@ -70,8 +63,7 @@
       "Monitor system performance and troubleshoot issues"
     ]
   },
-
-  {
+  "database_administrator": {
     "position": "Database Administrator",
     "responsibilities": [
       "Design and implement databases to store and organize data",
@@ -79,8 +71,7 @@
       "Backup and recover data as needed"
     ]
   },
-
-  {
+  "cloud_solutions_architect": {
     "position": "Cloud Solutions Architect",
     "responsibilities": [
       "Design and implement cloud computing solutions",
@@ -88,8 +79,7 @@
       "Ensure the security and compliance of cloud environments"
     ]
   },
-
-  {
+  "manager": {
     "position": "Manager",
     "responsibilities": [
       "Lead team meetings",
@@ -97,15 +87,7 @@
       "Make key decisions"
     ]
   },
-  {
-    "position": "Sales Representative",
-    "responsibilities": [
-      "Generate leads",
-      "Close sales",
-      "Provide excellent customer service"
-    ]
-  },
-  {
+  "marketing_coordinator": {
     "position": "Marketing Coordinator",
     "responsibilities": [
       "Create marketing campaigns",
@@ -113,7 +95,7 @@
       "Collaborate with team members"
     ]
   },
-  {
+  "human_resources_generalist": {
     "position": "Human Resources Generalist",
     "responsibilities": [
       "Manage employee benefits",
@@ -121,7 +103,7 @@
       "Facilitate conflict resolution"
     ]
   },
-  {
+  "financial_analyst": {
     "position": "Financial Analyst",
     "responsibilities": [
       "Perform financial analysis",
@@ -129,23 +111,7 @@
       "Provide financial recommendations"
     ]
   },
-  {
-    "position": "Software Developer",
-    "responsibilities": [
-      "Design and develop software applications",
-      "Test and debug code",
-      "Collaborate with cross-functional teams"
-    ]
-  },
-  {
-    "position": "Project Manager",
-    "responsibilities": [
-      "Manage project scope and timeline",
-      "Coordinate team members",
-      "Communicate with stakeholders"
-    ]
-  },
-  {
+  "graphic_designer": {
     "position": "Graphic Designer",
     "responsibilities": [
       "Design visual concepts",
@@ -153,7 +119,7 @@
       "Collaborate with team members"
     ]
   },
-  {
+  "content_writer": {
     "position": "Content Writer",
     "responsibilities": [
       "Create engaging written content",
@@ -161,7 +127,7 @@
       "Collaborate with team members"
     ]
   },
-  {
+  "customer_service_representative": {
     "position": "Customer Service Representative",
     "responsibilities": [
       "Answer customer inquiries",
@@ -169,8 +135,7 @@
       "Provide excellent customer service"
     ]
   },
-
-  {
+  "sales_representative": {
     "position": "Sales Representative",
     "responsibilities": [
       "Identify and generate leads through various sales techniques",
@@ -178,8 +143,7 @@
       "Negotiate and close sales deals"
     ]
   },
-
-  {
+  "account_manager": {
     "position": "Account Manager",
     "responsibilities": [
       "Manage and maintain relationships with existing clients",
@@ -187,8 +151,7 @@
       "Develop and implement sales strategies to retain and grow accounts"
     ]
   },
-
-  {
+  "sales_manager": {
     "position": "Sales Manager",
     "responsibilities": [
       "Manage and motivate a team of sales reps",
@@ -196,8 +159,7 @@
       "Monitor sales performance and provide coaching and training as needed"
     ]
   },
-
-  {
+  "business_development_manager": {
     "position": "Business Development Manager",
     "responsibilities": [
       "Identify and pursue new business opportunities",
@@ -205,8 +167,7 @@
       "Collaborate with team members to create and present proposals and pitches"
     ]
   },
-
-  {
+  "sales_consultant": {
     "position": "Sales Consultant",
     "responsibilities": [
       "Provide expert advice and guidance to clients on product and service options",
@@ -214,8 +175,7 @@
       "Manage and follow up with potential leads"
     ]
   },
-
-  {
+  "inside_sales_representative": {
     "position": "Inside Sales Representative",
     "responsibilities": [
       "Generate and follow up on leads through phone and email communication",
@@ -223,8 +183,7 @@
       "Maintain accurate records and track progress through sales software"
     ]
   },
-
-  {
+  "sales_engineer": {
     "position": "Sales Engineer",
     "responsibilities": [
       "Provide technical expertise and product knowledge to clients",
@@ -232,8 +191,7 @@
       "Collaborate with cross-functional teams to ensure successful product implementation"
     ]
   },
-
-  {
+  "territory_sales_manager": {
     "position": "Territory Sales Manager",
     "responsibilities": [
       "Manage and grow sales within a specific geographic region",
@@ -241,8 +199,7 @@
       "Conduct market research to identify and pursue new business opportunities"
     ]
   },
-
-  {
+  "national_sales_manager": {
     "position": "National Sales Manager",
     "responsibilities": [
       "Oversee and coordinate sales efforts across multiple regions and teams",
@@ -250,8 +207,7 @@
       "Provide coaching and training to sales reps and managers"
     ]
   },
-
-  {
+  "channel_sales_manager": {
     "position": "Channel Sales Manager",
     "responsibilities": [
       "Develop and maintain relationships with partner organizations to drive sales",
@@ -259,4 +215,4 @@
       "Collaborate with cross-functional teams to ensure successful product implementation through channel partners"
     ]
   }
-]
+}
